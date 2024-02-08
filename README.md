@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 
-- 👨‍🎓 I am a graduate Computer Engineering Student at the University of Utah
-- 🙌 I am passionate about building SaaS businesses
-- 👁️ Looking for driven people to connect and ideate with
+- 👨‍🎓 Graduated from the University of Utah with M.S. in Computer Engineering
+- 🙌 I am passionate about building Software businesses
+- 👁️ Always looking for driven people to connect and ideate with for new adventures
  
 ## 🛠️ Skills
 <div id="skills" align="center">
